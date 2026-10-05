@@ -1,0 +1,7 @@
+{
+  // Nuxt generates the real config (including the @shared alias) in .nuxt/
+  "extends": "./.nuxt/tsconfig.json",
+  "compilerOptions": {
+    "strict": true
+  }
+}

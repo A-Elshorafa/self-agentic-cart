@@ -1,0 +1,24 @@
+# dependencies
+node_modules
+
+# build output
+.nuxt
+.output
+.nitro
+.cache
+dist
+
+# env files (keep the example)
+.env*
+!.env.example
+
+# logs
+*.log
+npm-debug.log*
+
+# coverage
+coverage
+.nyc_output
+
+# OS
+.DS_Store
